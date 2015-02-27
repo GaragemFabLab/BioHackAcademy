@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Microscope (Class 2)
+title: Microscopio (Class 2)
 permalink: /biofactory/class/2-microscope/
 ---
 
-## Synopsys
+## Synopse
 
 We will make our own microscope to take a closer look at how last week’s
 cultures have grown. The subject of this class is microbio physiology and
