@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2D & 3D Design (Class 3)
+title: Projetos em 2D & 3D (Aula 3)
 permalink: /biofactory/class/3-design/
 ---
 
