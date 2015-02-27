@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2D & 3D Design (Class 3)
+title: 2D & 3D (Class 3)
 permalink: /biofactory/class/3-design/
 ---
 
