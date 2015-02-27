@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Incubator (Class 1)
+title: Incubadora (Aula 1)
 permalink: /biofactory/class/1-incubator/
 ---
 
-## Synopsys
+## Sinopse
 
 Build your own incubator and start growing microbes under controlled conditions. During the class you will also get to know the fundamentals of microbiology. We’ll use our purple pigment bacteria as a standard, but you can also choose your own favourite biological agent. A crash course Arduino programming and soldering is included.
 
